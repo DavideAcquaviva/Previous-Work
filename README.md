@@ -2,7 +2,7 @@
 
 # First Project
 
-# twist-team-02
+## twist-project <h2>
 # WASH MY HERO <h1>
 
 ### Membri Partecipanti: <h3>
@@ -56,3 +56,58 @@
   ![villain_end](https://user-images.githubusercontent.com/90765270/146354348-6330f892-9a50-431e-96c1-8bd3bfdaa350.PNG)
   
 # Second Project
+
+## mobile-project <h2>
+
+# GHOST CRAWLER <h1>
+
+## Team Member: <h2>
+
+#### Producer: <h4>
+
+* Zannuto Gabriele
+
+#### Game Programmer: <h4>
+
+* Muzi Filippo
+* Acquaviva Davide
+
+#### Game Designer: <h4>
+
+* Lilliu Lorenzo
+* Crubellati Andrea
+
+#### Game Artist 3D: <h4>
+
+* Illengo Gregorio
+* Manzoni Sergio
+
+#### Concept Artist: <h4>
+
+* Matta Federico
+
+
+## Some Screenshoot of the Game: <h2>
+
+#### Promo Art: <h4>
+
+![alt text](https://github.com/2122-dbga-projects/match3-team-02/blob/main/Assets/Screenshots/4.png?raw=true)
+
+#### City Map: <h4>
+
+![alt text](https://github.com/2122-dbga-projects/match3-team-02/blob/main/Assets/Screenshots/5.png?raw=true)
+
+#### Cimitery Combat Mini-Boss: <h4>
+
+![alt text](https://github.com/2122-dbga-projects/match3-team-02/blob/main/Assets/Screenshots/1.png?raw=true)
+
+#### Castle View: <h4>
+
+![alt text](https://github.com/2122-dbga-projects/match3-team-02/blob/main/Assets/Screenshots/3.png?raw=true)
+
+#### Castle Combat Boss: <h4>
+
+![alt text](https://github.com/2122-dbga-projects/match3-team-02/blob/main/Assets/Screenshots/2.png?raw=true)
+  
+  
+# Third Project 
