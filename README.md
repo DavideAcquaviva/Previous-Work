@@ -109,4 +109,70 @@
   
   
 # Third Project 
-## In Progress... <h3>
+# tbo-team-05
+
+<h1 align="center"> HEXOGUN </h1>
+ 
+<h3 align="center"> Team Member: </h3>
+
+#### Producer: <h4>
+
+* Patron Alessandro
+
+##### Game Programmer: <h5>
+
+* Ancona Samar
+* Nanni Davide
+* Acquaviva Davide
+
+##### Game Designer: <h5>
+
+* Franceschini Claudio
+* Rodio Simone
+* Vido De Zaccaria Filippo
+
+##### Game Artist 3D: <h5>
+
+* Pagan Davide
+* Sparacino Leonardo
+* Curcio Francesca Federica
+* Pittari Ivan
+
+##### Concept Artist: <h5>
+
+* Centanni Nicolò
+* Molinaro Mariateresa
+ 
+
+ 
+ <h2 align="center"> Some Screenshoot of the Game: </h2>
+ 
+ <h3 align="center"> Promo Art: </h3>
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/90765270/178946970-3063e253-8f79-4571-8638-e99eff6b6b87.png">
+ </p>
+ 
+ <h3 align="center"> Scene: </h3>
+ 
+ <p align="center">
+  
+ ![sfondo_della_pagina_hexogun](https://user-images.githubusercontent.com/90765270/178947036-288cb045-6cf0-4b94-a937-f5546f71559f.png)
+ 
+ ![3](https://user-images.githubusercontent.com/90765270/178947086-e5b4568b-2613-4733-98b8-81f2c75baec7.png)
+ 
+ ![2](https://user-images.githubusercontent.com/90765270/178947167-e82a59c9-ef19-4116-8a8d-a72004914f13.png)
+ 
+ ![1](https://user-images.githubusercontent.com/90765270/178947373-d4775f6e-402b-44d4-bcb7-4f58321e2f24.png)
+ 
+ <h3 align="center"> In Game: </h3>
+ 
+ ![8](https://user-images.githubusercontent.com/90765270/178947272-098bb498-6e8a-4c96-ba38-b667d8d8b4da.png)
+ 
+ ![6](https://user-images.githubusercontent.com/90765270/178947333-0416140f-00cf-4a95-957f-ca9be489b5ad.png)
+ 
+ ![4](https://user-images.githubusercontent.com/90765270/178947415-f98dc337-78b9-40ff-b43a-00a44773dd5a.png)
+
+ ![7](https://user-images.githubusercontent.com/90765270/178947444-22b37f64-93b7-42f5-9ca9-cfa6838090cb.png)
+
+ </p>
